@@ -1,0 +1,14 @@
+.fundo{
+    background-image: url(../img/projeto1-petshop.png);
+    background-size: 100%;
+   background-repeat: no-repeat; 
+   width: 100vw;
+   height: 100vw;
+   margin:0%;
+}
+.titulo{
+     text-align: center;
+}
+.chamada{
+    text-align: center;
+}

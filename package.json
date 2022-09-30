@@ -1,0 +1,14 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "primeiro projeto js que roda no servidor node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriely",
+  "license": "ISC",
+  "dependencies": {
+    "react-router-dom": "^6.3.0"
+  }
+}
